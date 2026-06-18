@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto desenvolvido para a disciplina de Orientação a Objetos Avançado utilizando Java 17, Spring Boot, JPA/Hibernate e banco de dados H2.
+Projeto desenvolvido para a disciplina de Programação Orientada a Objetos Avaçado utilizando Java 17, Spring Boot, JPA/Hibernate e banco de dados H2.
 
 O sistema permite o gerenciamento de clientes, produtos, estoque e vendas, aplicando os princípios SOLID.
 
