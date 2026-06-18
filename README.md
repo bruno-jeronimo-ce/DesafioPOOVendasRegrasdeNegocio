@@ -125,6 +125,6 @@ Bruno Jeronimo
 
 Curso: Análise e Desenvolvimento de Sistemas
 
-Disciplina: Orientação a Objetos Avançado
+Disciplina: Programação Orientada a Objetos Avaçada
 
 Faculdade Princesa do Oeste
